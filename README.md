@@ -28,18 +28,7 @@ The application allows users to enter a search query (e.g., *laptop*, *mobile*),
 * Requests
 * BeautifulSoup (bs4)
 * CSV / File Handling
-
----
-
- 📂 Project Structure
-
-```
-ecommerce-product-scraper/
-│── scraper.py
-│── output.csv
-│── README.md
-```
-
+* 
 ---
 Project Structure-
 Amazon_Flipkart_webproject/
