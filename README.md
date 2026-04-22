@@ -10,15 +10,15 @@ The application allows users to enter a search query (e.g., *laptop*, *mobile*),
 
 🚀 Features
 
-🔍 Search products using user input
-  📦 Extract product details:
+* 🔍 Search products using user input
+* 📦 Extract product details:
 
   * Product Name
   * Price
   * Rating
   * Product Link
- 📄 Save data into CSV file
- ⚠️ Basic exception handling for stability
+* 📄 Save data into CSV file
+* ⚠️ Basic exception handling for stability
 
 ---
 
@@ -28,15 +28,18 @@ The application allows users to enter a search query (e.g., *laptop*, *mobile*),
 * Requests
 * BeautifulSoup (bs4)
 * CSV / File Handling
-* 
+
 ---
-Project Structure-
+
+📂 Project Structure
+
+```
 Amazon_Flipkart_webproject/
 |-books_all.csv
 |-scraper.log
 |-Web_scraping_prices.ipynb
+```
 ---
-
 📊 Sample Output
 
 The script generates a CSV file containing:
@@ -64,8 +67,6 @@ Websites like Amazon and Flipkart may have restrictions on scraping. Always foll
 * Add price comparison dashboard
 
 ---
-
-👨‍💻 Author
 
 Tanvi Jadhav
 https://github.com/Tanu28-pixel
