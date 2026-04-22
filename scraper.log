@@ -1,0 +1,7 @@
+2026-04-22 13:55:59,138 - INFO - Flipkart Page 1
+2026-04-22 13:55:59,429 - ERROR - Flipkart page 1 failed: 403 Client Error: Forbidden for url: https://www.flipkart.com/search?q=&page=1
+2026-04-22 13:55:59,430 - INFO - Flipkart Page 2
+2026-04-22 13:55:59,662 - ERROR - Flipkart page 2 failed: 403 Client Error: Forbidden for url: https://www.flipkart.com/search?q=&page=2
+2026-04-22 13:55:59,666 - INFO - Amazon Page 1
+2026-04-22 13:56:02,654 - INFO - Amazon Page 2
+2026-04-22 13:56:03,108 - ERROR - Amazon page 2 failed: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=&page=2
